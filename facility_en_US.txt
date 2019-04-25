@@ -1,0 +1,17 @@
+facilityName=Facility Name
+facilityInfo=Facility Info
+region=Region
+country=Country
+city=City
+riskScore=Risk Score
+location=Location
+recentIncidents=Recent Incidents
+linkToLatestAssessment=Link to Latest Assessment
+assessmentPerformedOn=Assessment Performed On
+assessmentPerformedBy=Assessment Performed By
+datacenterOnSite=Datacenter On-site?
+childcareOnSite=Childcare On-site?
+24hrFacility=24-hour Facility?
+numFloors=Number of Floors
+citiFloors=Citi Occupied Floors
+citiOwned=Citi Owned or Leased

@@ -1,0 +1,6 @@
+completed=Completed!
+markAsComplete=Mark as completed
+resetCompletion=Reset completion status
+facilityRiskAssessment=Facility Risk Assessment
+totalProgress=Total Progress
+submitAssessment=Submit Assessment

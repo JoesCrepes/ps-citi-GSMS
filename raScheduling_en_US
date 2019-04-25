@@ -1,0 +1,15 @@
+regions=Regions
+region=Region
+facility=Facility
+resetFilter=Reset Filters
+assessmentid=No
+regionname=Region
+residualRiskLevel=Residual Risk Level
+riskLevel=Risk Level
+lastAssessmentDate=Last Assessment Date
+scheduledDate=ScheduledDate
+assignedAssessor=AssignedAssessor
+assessor=Assessor
+validateSchedule=Validate Schedule
+saveAndClose=Save and close
+scheduledDateToolTip=The system pre-calculated the date based on risk level and last assessment date. It is editable if needed.
